@@ -51,6 +51,17 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
 
     To begin using Sass I updated my css file from style.css to style.scss.
 
+    Installed our package.json file to install our node packages.
+
+    ```
+    npm init -y
+    ```
+    Installed package-lock.json file by installing node into file
+
+    ```
+    npm install
+    ```
+
     
 
 
