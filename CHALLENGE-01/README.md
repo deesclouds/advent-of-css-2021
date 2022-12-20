@@ -34,3 +34,25 @@ You can use as many (or as few) tools, libraries, and frameworks as you'd like. 
     - Check out the [Learn Build Teach Discord.](http://learnbuildteach.com) We have a specific channel set up, just for the Advent of JavaScript.
 - Can I use this project in my portfolio?
     - Sure! But, be honest about the work that *you* did
+
+    # Here's what I did:
+
+    First I set up my project file structure, downloaded the files needed for this project read through everything and then opened the files within Figma so that I can have a look at the files while working. 
+
+    I installed Sass within my terminal via node:
+    
+    ```
+    npm install -g sass
+    ```
+    What is a CSS preprocessor?
+    What we write in Sass needs to be compiled into CSS.
+
+    I also installed the Live Sass Compiler extension by Glenn Marks. [glenn2223.live-sass]
+
+    To begin using Sass I updated my css file from style.css to style.scss.
+
+    
+
+
+
+    
